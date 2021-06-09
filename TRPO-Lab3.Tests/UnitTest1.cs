@@ -17,7 +17,7 @@ namespace TRPO_Lab3.Tests
             double expected = 3.14;
 
             var result = Class1.Konus(h, r1, r2);
-            Assert.AreEqual(expected, result);
+            Assert.AreEqual(expected, result, 0.01d);
 
         }
     }
