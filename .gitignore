@@ -47,7 +47,7 @@ nunit-*.xml
 project.lock.json
 project.fragment.lock.json
 artifacts/
-вЂѓ
+РІР‚С“
 
 #Ignore thumbnails created by Windows
 Thumbs.db
@@ -69,7 +69,7 @@ Thumbs.db
 *.log
 [Bb]in
 [Dd]ebug*/
-*.lib
+
 *.sbr
 obj/
 [Rr]elease*/
